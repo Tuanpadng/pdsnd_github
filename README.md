@@ -12,7 +12,7 @@ BIKESHARE
 This project for learning udacity Programming for Data Science with Python
  
 ### Files used
-bikeshare2.py
+bikeshare.py
  
 ### Credits
 Repo URL: https://github.com/tuanpagnd/pdsnd_github
